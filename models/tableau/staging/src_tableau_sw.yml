@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: tableau_sw
+    database: development
+    schema:  tableau_sw
+    tables:
+      - name: prod_sw_product_master

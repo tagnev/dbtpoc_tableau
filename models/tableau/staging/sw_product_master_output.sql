@@ -4,6 +4,7 @@
     )
 }}
 
+
 with PROD_SW_PRODUCT_MASTER as (
 SELECT 
 
